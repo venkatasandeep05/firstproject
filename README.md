@@ -1,2 +1,2 @@
-# firstproject
+# FirstProject
 demo project 
